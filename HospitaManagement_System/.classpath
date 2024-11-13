@@ -55,12 +55,12 @@
 			<attribute name="m2e-apt" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/dheer/Downloads/tomcat999/apache-tomcat-9.0.91/lib/servlet-api.jar">
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/dheer/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar">
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/apache-tomcat-9.0.89/lib/servlet-api.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
